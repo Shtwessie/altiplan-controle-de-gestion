@@ -67,6 +67,8 @@ Les résultats attendus (KPI) ne sont pas publiés dans les missions : chaque mi
 
 Conçu par **[Shtwessie D.](https://github.com/Shtwessie)**, gestionnaire (facturation, RH et automatisation) en évolution vers le contrôle de gestion et la gestion de projet. Portfolio : [shtwessie.github.io/kim-os](https://shtwessie.github.io/kim-os/)
 
+**Conçu avec Claude (Anthropic).** Le cas d'étude, les missions, les jeux de données chiffrés, le site et le cours Odoo ont été réalisés avec l'aide de Claude. Tous les KPI de validation ont été recalculés et vérifiés.
+
 ## Licence
 
 Contenu pédagogique sous licence [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) : réutilisation libre, y compris commerciale, en citant l'auteur.
